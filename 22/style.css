@@ -1,0 +1,71 @@
+body {
+    background-color: antiquewhite;
+}
+*{
+    margin: 0;
+   padding: 0;
+   color: white;
+   box-sizing: border-box;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav {
+    background: #222222;
+   padding: 10px 40px 50px 70px;
+   border:1px solid red;
+   border-left: none;
+   border-right: none; 
+}
+nav ul {
+    display: flex;
+   list-style: none;
+   flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+nav ul li.logo {
+    flex: 1;
+   font-size: 50px;
+  font-weight: 2000%;
+
+}
+nav ul div.items {
+    padding: 0 25px;
+}
+#box{
+    width: 400px;
+   border: 1px solid black;
+ height: 500px;
+ background-color: #222222;
+font-size: x-large;
+ text-align: center;
+}
+one {
+    color: black;
+    box-sizing: content-box;
+}
+h1 {
+  text-align: center;
+   color: #000;
+  background-color: burlywood;
+  font-size: 50px;
+}
+three {
+    background-color: #222222;
+}
+input type {
+    color: cyan;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
